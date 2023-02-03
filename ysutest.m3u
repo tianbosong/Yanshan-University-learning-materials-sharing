@@ -1,0 +1,73 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/5ae5ab4a15-0-0-113151e7198aedfc5144cdddd96fa5b6/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/157574d4ae-0-0-a6d5196956198f0b1eb46488ac794945/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/d9a9fbd437-0-0-126381e9d87c2106e0b533ac9551c04b/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/e59d02f2c1-0-0-9d1939f8ce6e95049f9044668e86ae89/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/dd7583511d-0-0-2bd8df43795234db4718e6ac3b0b44fd/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/b813fc99c4-0-0-ede2d9c38fd1cf093567439c1149395e/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/32214e9e3e-0-0-0e510c07beccb3a0bc6fefa07c18e5d0/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/6d28d4b074-0-0-c72a10d925b906ceac88cef2d5f8431f/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/40b1866abf-0-0-35913711ac9ac3f80bd5766898e75437/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/96f212c8bb9eca90c8f15ae041b4f64b3a3ba67b/9c01b68385-0-0-e2b8cef6ce5aac032bed8a6c4fd65ad8/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/0c3d1a4d2e-0-0-1477e7edc09ce2cd23728561bd5753d4/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/0e0973e58d4835f4b872548164462930003f77b4/9f61fba060-0-0-ca8d6f80c51a48d6f411d1fb5b1e2d69/index.m3u8
+#EXTINF:-1 group-title="CCTV",CHC高清电影
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/b04f43dc38-0-0-ea5600f9352b067bdfa03ec79c07ed00/index.m3u8
+#EXTINF:-1 group-title="BTV",BTV1
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/85104b80a3-0-0-647693793d6f5ade35a37f9d86ddea6c/index.m3u8
+#EXTINF:-1 group-title="BTV",BTV2
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/143346911b-0-0-674f6bf67e24d5ea62fe5446b95a6baf/index.m3u8
+#EXTINF:-1 group-title="BTV",BTV4
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/d4e51b3fd6-0-0-af7415db315d42048f00fbb8ca92064c/index.m3u8
+#EXTINF:-1 group-title="BTV",BTV9
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/2f8642ad09-0-0-04da410f2d77ddeedcf5ab0f77b9f11c/index.m3u8
+#EXTINF:-1 group-title="BTV",BTV11
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/0942891769-0-0-f7948ddecc7f1ad6d5c80ff6944ce8df/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/1cec58a709-0-0-18fa25bcbd8ae6d8dce5261dba0c32e3/index.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/5c6832a674-0-0-4fea0a0d3bf60baa6f4e8ff08e8c795c/index.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/17e35ebb6a-0-0-405dbe057331880bdc3063bc3931bb20/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/9092dde194-0-0-6563ada651370fe71284e8d293f253e7/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/79e7780680-0-0-de3d0c29dd17b5ef1d7c33fa801eded0/index.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/43c6a740fa-0-0-41f7953b330654970d9fe134489a9bc5/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/05789b2bf0-0-0-c4bfd5033e1720f6762057e6d336bbdf/index.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/818ac7b9db-0-0-fcc66748da9199130f9dc76fc0e4aefa/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ab40b0d6d-0-0-39114fc2e57db8c5bccefb6094160680/index.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/41433c450cf4747cf2600adecc560bc90f344182/53d74e9a07-0-0-0fa1fe00d23ead1817c34c42124778e9/index.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/f1d92fd765-0-0-d435d62148fff09da0d0936267218d7e/index.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/77545d6139-0-0-09093cd234a3091ff734da2001838d1f/index.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/a2ad286cd8-0-0-04a94d2bcd4a7a5b95ac020cc73829d9/index.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/ca3f021632b48e6960797776657926074723d276/37f99ffc36-0-0-114f8c9d47edd938e71b3a3414d01198/index.m3u8
+#EXTINF:-1 group-title="卫视",金鹰纪实
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/d623386366118b9f7e610c167dbb8dc552b7660c/d038fbcab2-0-0-c8c34e9706e1d1e14e42e3eff3cd12fc/index.m3u8
+#EXTINF:-1 group-title="卫视",福建卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/80cb10ff6c-0-0-9d34c2bcc494360334d5fba9c6b8c16a/index.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/6162903716-0-0-2c40beae54cf3122616205c4619eb81a/index.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://video-ysu-edu-cn.vpn.ysu.edu.cn:8118/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/ea63330a47-0-0-811f3e2a287899f3939d559a32e4fd33/index.m3u8
